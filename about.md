@@ -30,11 +30,11 @@ I have a degree in sociology and i'm studing computer science major and developi
 ### Why I Like Developing?
 
 Hello World!!
-When I was studing socal science, I naturally interested in the world.
+When I was studying social science, I naturally interested in the world.
 After reading books and looking around, I realized that information technologies are very important for our human being lifes.
-This world is changing so fast. when I was young maybe middle school, the mobile phone had only two options: calling and texting.
+This world is changing so fast. When I was young maybe middle school, the mobile phone had only two options: calling and texting.
 Now the Electronic Cars are another mobile information devices. 
-However,
+However, The fact that can't be ignored is that the world in inequality.
 
 That's why I'm developing it.
 
