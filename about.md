@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Sumin. I'm very iterested in Web, Java, other new information technologies and also learning about those.
+Hi, my name is Sumin. I'm very iterested in Web, Java, and other new information technologies and also learning about those.
 
-I have a degree in sociology. I'm studing computer science major and developing Web Project now :)
+I have a degree in sociology and i'm studing computer science major and developing Web Project now :)
 
 
 ### Skills
