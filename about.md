@@ -12,26 +12,18 @@ I have a degree in sociology. I'm studing computer science major and developing 
 ### Skills
 
 - JAVA / JSP / Spring
-
 - MyBatis / mySQL
-
 - JS / jQuery / Ajax
-
 - CSS / Bootstrap
-
 - IBM SPSS Statistics
 
 
 ### Favorite tools
 
 - STS for Eclipse
-
 - HeidiSQL
-
 - Git Bash
-
 - Justinmind
-
 - Visual Studio Code
 
 
