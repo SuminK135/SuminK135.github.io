@@ -18,7 +18,7 @@ I have a degree in sociology and i'm studing computer science major and developi
 - IBM SPSS Statistics
 
 
-### Favorite tools
+### Favorite Tools
 
 - STS for Eclipse
 - HeidiSQL
@@ -27,9 +27,18 @@ I have a degree in sociology and i'm studing computer science major and developi
 - Visual Studio Code
 
 
-### Why do you lkie developing?
+### Why I Like Developing?
 
+Hello World!!
+When I was studing socal science, I naturally interested in change of world.
+After reading books and looking around, I realized that information technologies are very important for our human being lifes.
+This world is changing so fast. when I was young maybe middle school, the mobile phone had only two options: calling and texting.
+Now the Electronic Cars are another mobile information devices. 
+However,
 
+That's why I'm developing it.
+
+Thank you.
 
 ### Contact me
 
