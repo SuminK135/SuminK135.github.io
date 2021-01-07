@@ -32,10 +32,10 @@ I have a degree in sociology, and I'm studying computer science major and develo
 Hello World!!
 
 When I was studying social science, I naturally interested in the world.
-After reading books and looking around, I realized that information technologies are very important for our human being lifes.
+After reading books and looking around, I realized that information technologies are very important for our human being lives.
 This world is changing so fast. When I was young maybe middle school, the mobile phone had only two options: calling and texting.
 Now the electronic car has become another mobile information device. 
-However, The fact that can't be ignored is that world is in inequality.
+However, The fact that can't be ignored is that the world is in inequality.
 Technology is not just about the exchange of information.
 Technology not only accelerates the exchange of information, but trust in society.
 
