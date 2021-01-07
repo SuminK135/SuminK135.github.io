@@ -5,16 +5,23 @@ permalink: /about/
 ---
 
 Hi, my name is Sumin. I'm very iterested in Web, Java, other new information technologies and also learning about those.
+
 I have a degree in sociology.
+
 I'm studing computer science major and developing Web Project now :)
+
 Thank you.
 
 ### Skills
 
 JAVA/JSP/Spring
+
 MyBatis/mySQL
+
 JS/jQuery/Ajax
+
 CSS/Bootstrap
+
 IBM SPSS Statistics
 
 ### Favorite tools
