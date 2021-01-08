@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi :) I am Sumin. A S.korean. I'm very interested in Web, Java, and other new information technologies and also learning about those. I have a degree in sociology, and I'm studying computer science major and developing Web Project now.
+Hi :) I am Sumin. A S. Korean. I'm very interested in Web, Java, and other new information technologies and also learning about those. I have a degree in sociology, and I'm studying computer science major and developing Web Project now.
 
 
 ### Skills
