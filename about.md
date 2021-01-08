@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-##### Hi :) I am Sumin from S.korea. I'm very interested in Web, Java, and other new information technologies and also learning about those.
+Hi :) I am Sumin from S.korea. I'm very interested in Web, Java, and other new information technologies and also learning about those.
 
-##### I have a degree in sociology, and I'm studying computer science major and developing Web Project now.
+I have a degree in sociology, and I'm studying computer science major and developing Web Project now.
 
 
 ### Skills
 
-- JAVA
-- Javascript
+- JAVA / JSP / Spring
+- JS / jQuery / Ajax
 - HTML / CSS / Bootstrap
 - mySQL
 - IBM SPSS Statistics
