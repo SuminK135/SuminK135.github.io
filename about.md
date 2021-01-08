@@ -10,7 +10,7 @@ Hi :) I am Sumin from S.korea. I'm very interested in Web, Java, and other new i
 ### Skills
 
 - JAVA
-  - JSP / myBatis / Spring
+  - JSP / Spring / myBatis
 - Javascript
   - jQuery / Ajax
 - Databases
@@ -21,12 +21,11 @@ Hi :) I am Sumin from S.korea. I'm very interested in Web, Java, and other new i
 
 ### Favorite Tools
 
-- STS for Eclipse
+- Eclipse IDE
 - HeidiSQL
-- Git Bash
 - Justinmind
 - Visual Studio Code
-
+- Git
 
 ### Why I Like Developing
 
