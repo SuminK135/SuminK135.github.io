@@ -11,10 +11,13 @@ I have a degree in sociology, and I'm studying computer science major and develo
 
 ### Skills
 
-- JAVA / JSP / Spring
-- JS / jQuery / Ajax
+- JAVA
+  - JSP / myBatis / Spring
+- Javascript
+  - jQuery / Ajax
+- Databases
+  - mariaDB / mySQL
 - HTML / CSS / Bootstrap
-- mySQL
 - IBM SPSS Statistics
 
 
