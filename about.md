@@ -41,7 +41,7 @@ Technology is not just about the exchange of information.
 Technology not only accelerates the exchange of information, but trust in society.
 
 That's why I'm developing it.
-Thank you.
+
 
 ### Contact me
 
