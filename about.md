@@ -15,7 +15,7 @@ Hi :) I am Sumin. S.Korean. I'm very interested in Web, Java, and other new info
   - jQuery / Ajax
 - Databases
   - mariaDB / mySQL
-- HTML / CSS / Bootstrap
+- HTML5 / CSS3
 - IBM SPSS Statistics
 
 
