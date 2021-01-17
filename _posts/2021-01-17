@@ -2,7 +2,6 @@
 layout: post
 title: Spring Persistence tier - myBatis CRUD
 ---
-
 #### 1. Create(Insert)
 
 create Value Object using lambok library.
