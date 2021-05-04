@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paging on The Board Lists - Spring
+title: Paging on The Board List - Spring
 ---
 
 #### 1. SQL Mapping XML (MySQL/MariaDB)
