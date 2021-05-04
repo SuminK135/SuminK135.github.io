@@ -23,11 +23,10 @@ That's why I'm developing it.
 - JAVA
   - JSP / Spring / myBatis
 - Javascript
-  - jQuery / Ajax
+  - ES5 / jQuery / Ajax
 - Databases
   - mariaDB / mySQL
-- HTML5 / CSS3
-- IBM SPSS Statistics
+- HTML5 / CSS3 (Responsive Web)
 
 
 ### Favorite Tools
